@@ -1,5 +1,5 @@
 # DEL_data_analysis
-# Dependencies
+## Dependencies
 ```
 python 3.7.6   
 pandas   
@@ -8,7 +8,7 @@ itertools
 matplotlib   
 Biopython   
 ```
-# Quick run
+## Quick run
 To get help information: 
 ```
 python DEL_data_analysis.py -h 
